@@ -8,7 +8,7 @@ Estou em fase de transição de carreira, trazendo uma forte bagagem de resiliê
 🛠️ **Tecnologias e Conhecimentos:**
 - **Nuvem:** AWS (EC2, S3, IAM, VPCs) via AWS Academy.
 - **Infraestrutura e Suporte:** Linux (Navegação, Permissões, Scripts básicos), Redes de Computadores, Docker.
-- **Linguagens:** Python (focado em automação de tarefas do dia a dia) e SQL.
+- **Linguagens:** HTML, CSS, JavaScript, Python (focado em automação de tarefas do dia a dia) e SQL.
 - **Soft Skills:** Resolução ágil de problemas, Inteligência Emocional sob pressão, Atendimento ao Cliente.
 
 📚 **O que estou estudando agora:**
