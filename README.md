@@ -13,7 +13,8 @@ Versionamento: Git e GitHub.
 Infraestrutura: Conhecimentos em servidores e fundamentos de AWS.
 
 🚀 Projeto em Desenvolvimento:
-Bússola do Saber: Uma plataforma SaaS de curadoria educacional que ajuda estudantes a organizarem sua jornada de cursos gratuitos.
+Bússola do Saber:
+Uma plataforma SaaS de curadoria educacional que ajuda estudantes a organizarem sua jornada de cursos gratuitos.
 
 Tecnologias utilizadas: PHP, SQL, CSS, HTML e JS.
 
