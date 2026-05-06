@@ -1,24 +1,32 @@
-# Olá, sou o Hérbete Santos Sousa! 👋
+Olá, eu sou o Hérbete! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas no 5º semestre, buscando minha primeira oportunidade em Infraestrutura de TI, Suporte ou Estágio em Cloud.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) no 5º semestre. Sou apaixonado por tecnologia e focado em aprender a construir soluções web que sejam funcionais, seguras e úteis para as pessoas.
+Atualmente, dedico meu tempo aos estudos de desenvolvimento Full-Stack, aplicando na prática conceitos de back-end, front-end e proteção de dados.
 
-🚀 **Sobre mim**
-Estou em fase de transição de carreira, trazendo uma forte bagagem de resiliência, resolução de problemas e foco no cliente vindas da minha experiência no varejo e logística. Atualmente, sou aluno do programa **AWS Academy** e dedico meu tempo a dominar os fundamentos de servidores, redes, sistemas operacionais e computação em nuvem. Meu objetivo é atuar na linha de frente da TI, garantindo que a operação nunca pare!
+🛠️ Minhas Skills (O que estou praticando)
+Linguagens: PHP, JavaScript, HTML5 e CSS3.
 
-🛠️ **Tecnologias e Conhecimentos:**
-- **Nuvem:** AWS (EC2, S3, IAM, VPCs) via AWS Academy.
-- **Infraestrutura e Suporte:** Linux (Navegação, Permissões, Scripts básicos), Redes de Computadores, Docker.
-- **Linguagens:** HTML, CSS, JavaScript, Python (focado em automação de tarefas do dia a dia) e SQL.
-- **Soft Skills:** Resolução ágil de problemas, Inteligência Emocional sob pressão, Atendimento ao Cliente.
+Banco de Dados: MySQL.
 
-📚 **O que estou estudando agora:**
-- [Em andamento] AWS Academy Cloud Foundations
-- [Em andamento] AWS Academy Cloud Security Foundations
-- [Em andamento] Fundamentos de Linux e Redes de Computadores
+Versionamento: Git e GitHub.
 
-### 📬 Como me encontrar:
-- [Meu LinkedIn](www.linkedin.com/in/oherbetess)
-- E-mail: [herbete.dev@gmail.com]
+Infraestrutura: Conhecimentos em servidores e fundamentos de AWS.
 
----
-*Em constante aprendizado e aberto a novas oportunidades de crescimento profissional!*
+🚀 Projeto em Desenvolvimento
+Bússola do Saber: Uma plataforma SaaS de curadoria educacional que ajuda estudantes a organizarem sua jornada de cursos gratuitos.
+
+Tecnologias: Desenvolvido com PHP, SQL e JS.
+
+Foco: Usabilidade, design responsivo e conformidade com a LGPD.
+
+🧠 Soft Skills
+Autonomia: Capacidade de tirar projetos do papel e gerenciar o próprio aprendizado.
+
+Resolução de Problemas: Foco em criar códigos que resolvam desafios reais do dia a dia.
+
+Pensamento Analítico: Habilidade para entender requisitos e transformá-los em funcionalidades.
+
+📫 Vamos nos conectar?
+LinkedIn: https://www.linkedin.com/in/oherbetess/
+
+E-mail: [herbete.dev@gmail.com]
