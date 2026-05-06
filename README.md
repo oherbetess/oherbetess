@@ -27,6 +27,9 @@ Resolução de Problemas: Foco em criar códigos que resolvam desafios reais do 
 Pensamento Analítico: Habilidade para entender requisitos e transformá-los em funcionalidades.
 
 📫 Vamos nos conectar?
+
 LinkedIn: https://www.linkedin.com/in/oherbetess/
+
 Bússola do saber: http://bussoladosaber.infinityfreeapp.com
+
 E-mail: [herbete.dev@gmail.com]
