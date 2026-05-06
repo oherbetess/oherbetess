@@ -12,10 +12,10 @@ Versionamento: Git e GitHub.
 
 Infraestrutura: Conhecimentos em servidores e fundamentos de AWS.
 
-🚀 Projeto em Desenvolvimento
+🚀 Projeto em Desenvolvimento:
 Bússola do Saber: Uma plataforma SaaS de curadoria educacional que ajuda estudantes a organizarem sua jornada de cursos gratuitos.
 
-Tecnologias: Desenvolvido com PHP, SQL e JS.
+Tecnologias utilizadas: PHP, SQL, CSS, HTML e JS.
 
 Foco: Usabilidade, design responsivo e conformidade com a LGPD.
 
@@ -28,5 +28,5 @@ Pensamento Analítico: Habilidade para entender requisitos e transformá-los em 
 
 📫 Vamos nos conectar?
 LinkedIn: https://www.linkedin.com/in/oherbetess/
-
+Bússola do saber: http://bussoladosaber.infinityfreeapp.com
 E-mail: [herbete.dev@gmail.com]
