@@ -11,7 +11,7 @@ Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes
 
 *   **Tecnologias:** PHP, MySQL (SQL), JavaScript, HTML5 e CSS3.
 *   **Destaques técnicos:** Implementação de arquitetura MVC, modelagem de banco de dados relacional e conformidade com as diretrizes da LGPD para proteção de dados dos usuários.
-*   **🔗 Acesse o projeto:** [Bússola do Saber (Deploy)](bussoladosaber.infinityfreeapp.com) | [Repositório](https://github.com)
+*   **🔗 Acesse o projeto:** [Bússola do Saber Deploy](https://bussoladosaber.infinityfreeapp.com/) [Repositório](https://github.com/oherbetess)
 
 ---
 
@@ -21,7 +21,7 @@ Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes
 | Camada | Tecnologias |
 | :--- | :--- |
 | **Back-End** | `PHP`, `Fundamentos de Node.js` |
-| **Front-End** | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
+| **Front-End** | `JavaScript`, `HTML5`, `CSS3` |
 | **Banco de Dados** | `MySQL` / `SQL` |
 | **Infra & Ferramentas** | `Git`, `GitHub`, `Fundamentos de AWS` |
 
