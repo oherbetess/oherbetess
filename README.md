@@ -1,36 +1,45 @@
-Olá, eu sou o Hérbete! 👋
+# Olá, eu sou o Hérbete! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) no 5º semestre. Sou apaixonado por tecnologia e focado em aprender a construir soluções web que sejam funcionais, seguras e úteis para as pessoas.
-Atualmente, dedico meu tempo aos estudos de desenvolvimento Full-Stack, aplicando na prática conceitos de back-end, front-end e proteção de dados.
+Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvedor Full-Stack focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
 
-🛠️ Minhas Skills (O que estou praticando)
-Linguagens: PHP, JavaScript, HTML5 e CSS3.
+---
 
-Banco de Dados: MySQL.
+### 🚀 Projeto em Destaque
 
-Versionamento: Git e GitHub.
+#### 🧭 Bússola do Saber
+Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
 
-Infraestrutura: Conhecimentos em servidores e fundamentos de AWS.
+*   **Tecnologias:** PHP, MySQL (SQL), JavaScript, HTML5 e CSS3.
+*   **Destaques técnicos:** Implementação de arquitetura MVC, modelagem de banco de dados relacional e conformidade com as diretrizes da LGPD para proteção de dados dos usuários.
+*   **🔗 Acesse o projeto:** [Bússola do Saber (Deploy)](http://infinityfreeapp.com) | [Repositório](https://github.com)
 
-🚀 Projeto em Desenvolvimento:
-Bússola do Saber:
-Uma plataforma SaaS de curadoria educacional que ajuda estudantes a organizarem sua jornada de cursos gratuitos.
+---
 
-Tecnologias utilizadas: PHP, SQL, CSS, HTML e JS.
+### 🛠️ Stack Tecnológica
 
-Foco: Usabilidade, design responsivo e conformidade com a LGPD.
 
-🧠 Soft Skills
-Autonomia: Capacidade de tirar projetos do papel e gerenciar o próprio aprendizado.
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Back-End** | `PHP`, `Fundamentos de Node.js` |
+| **Front-End** | `JavaScript (ES6+)`, `HTML5`, `CSS3` |
+| **Banco de Dados** | `MySQL` / `SQL` |
+| **Infra & Ferramentas** | `Git`, `GitHub`, `Fundamentos de AWS` |
 
-Resolução de Problemas: Foco em criar códigos que resolvam desafios reais do dia a dia.
+---
 
-Pensamento Analítico: Habilidade para entender requisitos e transformá-los em funcionalidades.
+### 🧠 Soft Skills em Prática
+*   **Autonomia:** Capacidade de gerenciar o próprio aprendizado e tirar projetos do papel.
+*   **Pensamento Analítico:** Habilidade para transformar requisitos de negócio em código limpo.
+*   **Foco na Experiência do Usuário (UX):** Desenvolvimento voltado para interfaces fluidas e responsivas.
 
-📫 Vamos nos conectar?
+---
 
-LinkedIn: https://www.linkedin.com/in/oherbetess/
+### 📫 Vamos nos conectar?
 
-Bússola do saber: http://bussoladosaber.infinityfreeapp.com
+*   **LinkedIn:** [in/oherbetess](https://linkedin.com)
+*   **E-mail:** [herbete.dev@gmail.com](mailto:herbete.dev@gmail.com)
 
-E-mail: [herbete.dev@gmail.com]
+---
+<p align="center">
+  <i>"Transformando lógica de negócios em soluções digitais eficientes."</i>
+</p>
