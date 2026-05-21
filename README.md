@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projeto em Desenvolvimento
 
 #### 🧭 Bússola do Saber
 Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
