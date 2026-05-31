@@ -10,7 +10,6 @@ Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise
 Uma plataforma de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
 
 *   **Tecnologias:** PHP, MySQL (SQL), JavaScript, HTML5 e CSS3.
-*   **Destaques técnicos:** Implementação de arquitetura MVC, modelagem de banco de dados relacional e conformidade com as diretrizes da LGPD para proteção de dados dos usuários.
 
 
 ---
