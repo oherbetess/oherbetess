@@ -1,6 +1,6 @@
 # Olá, eu sou o Hérbete! 👋
 
-Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas (ADS) e Futuro Desenvolvedor Full-Stack focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
+Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvedor Full-Stack Júnior focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
 
 ---
 
