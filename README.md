@@ -1,13 +1,13 @@
 # Olá, eu sou o Hérbete! 👋
 
-Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvedor Full-Stack focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
+Seja bem-vindo ao meu perfil técnico. Sou estudante do 5º semestre de Análise e Desenvolvimento de Sistemas (ADS) e Futuro Desenvolvedor Full-Stack focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
 
 ---
 
 ### 🚀 Projeto em Desenvolvimento
 
 #### 🧭 Bússola do Saber
-Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
+Uma plataforma de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
 
 *   **Tecnologias:** PHP, MySQL (SQL), JavaScript, HTML5 e CSS3.
 *   **Destaques técnicos:** Implementação de arquitetura MVC, modelagem de banco de dados relacional e conformidade com as diretrizes da LGPD para proteção de dados dos usuários.
@@ -20,7 +20,7 @@ Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes
 
 | Camada | Tecnologias |
 | :--- | :--- |
-| **Back-End** | `PHP`, `Fundamentos de Node.js` |
+| **Back-End** | `PHP`|
 | **Front-End** | `JavaScript`, `HTML5`, `CSS3` |
 | **Banco de Dados** | `MySQL` / `SQL` |
 | **Infra & Ferramentas** | `Git`, `GitHub`, `Fundamentos de AWS` |
@@ -37,9 +37,8 @@ Uma plataforma SaaS de curadoria educacional desenvolvida para ajudar estudantes
 ### 📫 Vamos nos conectar?
 
 *   **LinkedIn:** [in/oherbetess](https://linkedin.com)
-*   **E-mail:** [herbete.dev@gmail.com](mailto:herbete.dev@gmail.com)
+*   **E-mail:** [herbete.dev@gmail.com]
 
 ---
-<p align="center">
   <i>"Transformando lógica de negócios em soluções digitais eficientes."</i>
 </p>
