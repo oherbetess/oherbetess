@@ -37,10 +37,11 @@ Como um profissional em constante evolução, estou atualmente expandindo minha 
 
 ### 📫 Como me encontrar
 <p>
-  <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:herbete.dev@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a>
+    Linkedin: https://www.linkedin.com/in/oherbetess
+    </a>
+    <br>
+    <a>
+  E-mail: herbete.dev@gmail.com
   </a>
 </p>
