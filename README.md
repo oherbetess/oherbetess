@@ -1,43 +1,46 @@
-# Olá, eu sou o Hérbete! 👋
+# Olá! Eu sou o Hérbete 👋
 
-Seja bem-vindo ao meu perfil técnico. Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvedor Full-Stack em construção focado na criação de aplicações web funcionais, seguras e focadas na experiência do usuário.
+**Desenvolvedor de Software Júnior | Full-Stack**
 
----
+Sou um desenvolvedor recém-formado com forte foco em resolução de problemas, criação de regras de negócio sólidas e desenvolvimento de interfaces funcionais. Gosto de entender o "porquê" por trás do código e estou sempre disposto a mergulhar em novas documentações.
 
-### 🚀 Projeto em Desenvolvimento
+### 🚀 O que estou construindo agora
+Atualmente, dedico a maior parte do meu tempo idealizando e desenvolvendo do zero a **Bússola do Saber**, uma plataforma de curadoria educacional. Neste projeto, atuo de ponta a ponta:
+*   **Arquitetura e Dados:** Modelagem do banco de dados relacional e estruturação do fluxo de informações.
+*   **Back-end:** Construção das regras de negócio e segurança.
+*   **Front-end:** Criação de interfaces responsivas e interativas.
+*   **Boas práticas:** Aplicação real de conceitos de LGPD na coleta e tratamento de dados dos usuários.
 
-#### 🧭 Bússola do Saber
-Uma plataforma de curadoria educacional desenvolvida para ajudar estudantes a organizarem suas jornadas de cursos gratuitos no mercado de tecnologia.
+### 🛠️ Tecnologias e Ferramentas
 
-*   **Tecnologias:** PHP, MySQL (SQL), JavaScript, HTML5 e CSS3.
+**Back-end & Banco de Dados**
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
+**Front-end**
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+**Ferramentas & Metodologias**
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="LGPD" src="https://img.shields.io/badge/LGPD-Privacy-success?style=for-the-badge" />
+</p>
 
-### 🛠️ Stack Tecnológica
+### 🌱 Próximos passos
+Como um profissional em constante evolução, estou atualmente expandindo minha base de conhecimentos explorando novos ecossistemas, como **Python** e frameworks modernos de front-end.
 
-
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Back-End** | `PHP`|
-| **Front-End** | `JavaScript`, `HTML5`, `CSS3` |
-| **Banco de Dados** | `MySQL` / `SQL` |
-| **Infra & Ferramentas** | `Git`, `GitHub`, `Fundamentos de AWS` |
-
----
-
-### 🧠 Soft Skills em Prática
-*   **Autonomia:** Capacidade de gerenciar o próprio aprendizado e tirar projetos do papel.
-*   **Pensamento Analítico:** Habilidade para transformar requisitos de negócio em código limpo.
-*   **Foco na Experiência do Usuário (UX):** Desenvolvimento voltado para interfaces fluidas e responsivas.
-
----
-
-### 📫 Vamos nos conectar?
-
-*   **LinkedIn:** [in/oherbetess](https://linkedin.com)
-*   **E-mail:** [herbete.dev@gmail.com]
-
----
-  <i>"Transformando lógica de negócios em soluções digitais eficientes."</i>
+### 📫 Como me encontrar
+<p>
+  <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:herbete.dev@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
