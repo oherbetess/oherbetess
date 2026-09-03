@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software Júnior | Full-Stack**
 
-Sou um desenvolvedor recém-formado com forte foco em resolução de problemas, criação de regras de negócio sólidas e desenvolvimento de interfaces funcionais. Gosto de entender o "porquê" por trás do código e estou sempre disposto a mergulhar em novas documentações.
+Sou um desenvolvedor recém-formado em Análise e Desenvolvimento de Sistemas pelo IPOG-GO, com forte foco em resolução de problemas, criação de regras de negócio sólidas e desenvolvimento de interfaces funcionais. Gosto de entender o "porquê" por trás do código e estou sempre disposto a mergulhar em novas documentações.
 
 ### 🚀 O que estou construindo agora
 Atualmente, dedico a maior parte do meu tempo idealizando e desenvolvendo do zero a **Bússola do Saber**, uma plataforma de curadoria educacional. Neste projeto, atuo de ponta a ponta:
